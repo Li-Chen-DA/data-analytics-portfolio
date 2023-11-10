@@ -15,10 +15,16 @@ This portfolio showcases my IT expertise through Excel, Tableau, Python, SQL pro
 - [Template 2: Title](excel/template2.xlsx)
   - Brief description of the template.
 
-## Tableau Projects
-- [Project 1: Title](tableau/project1)
+## SQL Projects    
+- [Project 1: Title](sql/project1)  
   - Brief description of the project.
-- [Project 2: Title](tableau/project2)
+- [Project 2: Title](sql/project2)
+  - Brief description of the project.
+ 
+## Python Projects      
+- [Project 1: Title](python/project1)
+  - Brief description of the project.
+- [Project 2: Title](python/project2)
   - Brief description of the project.
 
 ## About Me
